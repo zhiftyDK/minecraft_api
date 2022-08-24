@@ -1,0 +1,24 @@
+{
+    "name": "minecraft_api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhiftyDK/minecraft_api.git"
+    },
+    "author": "CodeZhifty",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zhiftyDK/minecraft_api/issues"
+    },
+    "homepage": "https://github.com/zhiftyDK/minecraft_api#readme",
+    "dependencies": {
+        "basic-ftp": "^5.0.1",
+        "cors": "^2.8.5",
+        "express": "^4.18.1"
+    }
+}
